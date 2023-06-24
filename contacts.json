@@ -1,0 +1,9 @@
+{
+"person":[
+    {"lastName": "Ben Lahmer", "firstName": "Fares", "eMail": "fares@gmail.com", "age":26},
+    {"lastName": "Kefi", "firstName": "Seif", "eMail": "kefi@gmail.com", "age":15},
+    {"lastName": "Fatnassi", "firstName": "Sarra", "eMail": "sarra.f@gmail.com", "age":40},
+    {"lastName": "Ben Yahia", "firstName": "Fares", "age":4},
+    {"lastName": "Cherif", "firstName": "Sami", "age":3}
+]
+}
